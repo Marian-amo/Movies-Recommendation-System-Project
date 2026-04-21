@@ -144,7 +144,7 @@ This project demonstrates that:
 - Tableau  
 
 
- Setup Instructions
+ # Setup Instructions
 1. Clone the repository
 git clone https://github.com/Marian-amo/Movies-Recommendation-System-Project
 
@@ -155,7 +155,10 @@ git clone https://github.com/Marian-amo/Movies-Recommendation-System-Project
 3. Install dependencies
 pip install -r requirements.txt
 
-Run Jupyter Notebook
+4. Download Dataset
+https://grouplens.org/datasets/movielens/
+
+5. Run Jupyter Notebook
 jupyter notebook
 Open:notebook.ipynb 
 
