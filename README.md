@@ -127,6 +127,7 @@ The hybrid model combines:
 - Deploy as a web application  
 
 ---
+[Tableau](https://public.tableau.com/app/profile/sonia.cherop/viz/IMDBMovieRatingsandViewershipDashboard/IMBDMOVIERATINGSDASHBOARD)
 
 ## Conclusion
 This project demonstrates that:
